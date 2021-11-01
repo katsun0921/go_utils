@@ -1,4 +1,4 @@
-module github.com/katsun0921/bookstore_utils-go
+module github.com/katsun0921/go_utils
 
 go 1.16
 
